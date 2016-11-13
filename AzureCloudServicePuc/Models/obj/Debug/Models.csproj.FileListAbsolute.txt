@@ -1,0 +1,5 @@
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\Models\bin\Debug\Models.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\Models\bin\Debug\Models.pdb
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\Models\obj\Debug\Models.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\Models\obj\Debug\Models.pdb

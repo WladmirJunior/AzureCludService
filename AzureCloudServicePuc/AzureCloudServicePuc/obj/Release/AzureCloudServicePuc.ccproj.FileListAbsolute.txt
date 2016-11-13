@@ -1,0 +1,193 @@
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\bin\Release\ServiceConfiguration.cscfg
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\bin\Release\ServiceDefinition.csdef
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Antlr3.Runtime.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Api.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\de\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\EntityFramework.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\EntityFramework.SqlServer.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\es\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\fr\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\it\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ja\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ko\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Data.Edm.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Data.OData.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Data.Services.Client.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.Security.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Models.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\MonAgentListener.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Newtonsoft.Json.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\Owin.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\csc.exe
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\vbc.exe
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\ru\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Net.Http.Formatting.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Spatial.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.Helpers.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.Http.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.Http.Owin.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.Http.WebHost.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.Mvc.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.Optimization.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.Razor.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.WebPages.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\WebGrease.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\de\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\de\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\de\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\es\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\es\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\es\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\fr\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\fr\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\it\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\it\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\it\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ja\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ja\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ko\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ko\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Microsoft.Data.Edm.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Microsoft.Data.OData.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Microsoft.Data.Services.Client.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Microsoft.WindowsAzure.Storage.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Models.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Models.pdb
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\MonAgentListener.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Newtonsoft.Json.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Processa Pedidos.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Processa Pedidos.dll.config
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\Processa Pedidos.pdb
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ru\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\ru\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\System.Spatial.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\zh-Hans\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Processa Pedidos\zh-Hant\System.Spatial.resources.dll
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\bin\Release\ValidationIssues.xml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\HelpPage.css
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\Api.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\Index.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Help\ResourceModel.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Shared\_Layout.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\Web.config
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Areas\HelpPage\Views\_ViewStart.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Content\bootstrap.css
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Content\bootstrap.min.css
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Content\Site.css
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\favicon.ico
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\fonts\glyphicons-halflings-regular.eot
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\fonts\glyphicons-halflings-regular.svg
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\fonts\glyphicons-halflings-regular.ttf
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\fonts\glyphicons-halflings-regular.woff
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Global.asax
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\packages.config
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\bootstrap.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\bootstrap.min.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\jquery-1.10.2.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\jquery-1.10.2.min.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\jquery-1.10.2.min.map
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\jquery.validate.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\jquery.validate.min.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\jquery.validate.unobtrusive.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\jquery.validate.unobtrusive.min.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\modernizr-2.6.2.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\respond.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\respond.min.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Scripts\_references.js
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Views\Home\Index.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Views\Shared\Error.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Views\Shared\_Layout.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Views\Web.config
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Views\_ViewStart.cshtml
+C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\obj\Release\Api\Web.config

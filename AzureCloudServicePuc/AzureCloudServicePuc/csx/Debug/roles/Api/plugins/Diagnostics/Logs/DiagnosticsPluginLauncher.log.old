@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Emulator config file set to C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\csx\Debug\roles\Api\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] DiagnosticsStoreRootPath set to: C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\csx\Debug\roles\Api\approot
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Loading config file: C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\csx\Debug\roles\Api\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Config file to read: C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\csx\Debug\roles\Api\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Emulator config file set to C:\Users\aluno.PUCMINAS\documents\visual studio 2015\Projects\AzureCloudServicePuc\AzureCloudServicePuc\csx\Debug\roles\Api\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [11/11/2016 00:44:44] Resetting DiagnosticPlugin
